@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-ghjj33.date-me.pro/sitemap.xml
